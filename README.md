@@ -14,7 +14,7 @@
 
 ## 💡 About Me
 I’m building a strong base in **Python, HTML/CSS, and JavaScript** on my journey to becoming an **AI Engineer** — crafting **inclusive, data-driven solutions** that solve real-world problems.  
-Learning since **2019**, combining self-study with structured training from the **Power Learn Project Scholarship**.  
+  
 🌐 Founder of [AfricaAbility.org](https://www.africaability.org)
 
 ---
