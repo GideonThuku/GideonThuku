@@ -5,7 +5,6 @@
     alt="Waving banner"
   />
 </p>
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GideonThuku&color=DC5100&style=for-the-badge)
 
