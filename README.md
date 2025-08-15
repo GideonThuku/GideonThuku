@@ -146,18 +146,13 @@ Provided by **Otermans Institute** & **Power Learn Project Africa**
 
 ---
 
----
 
 <p align="center">
-  <img src="logo.png" alt="banner.png" width="250">
+  <img src="logo.png" alt="Africa Ability Trust Logo" width="250">
 </p>
-
-<br>
 
 <p align="center">
-  Harnessing the power of technology to create a future<br>
-  where persons with disabilities and communities<br>
-  across Africa can thrive, belong, and lead.<br>
-  Proud Co-Executive Director at <a href="https://www.africaability.org">Africa Ability Trust</a>
+  <b>Building inclusive, data-driven solutions for a better tomorrow for PWDs.</b>
 </p>
+
 
