@@ -15,7 +15,7 @@
 ## 💡 About Me
 I’m building a strong base in **Python, HTML/CSS, and JavaScript** on my journey to becoming an **AI Engineer** — crafting **inclusive, data-driven solutions** that solve real-world problems.  
   
-🌐 Founder of [AfricaAbility.org](https://www.africaability.org)
+🌐 Co-executive director of [AfricaAbility.org](https://www.africaability.org)
 
 ---
 
