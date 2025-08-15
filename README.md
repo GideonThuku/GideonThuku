@@ -1,5 +1,3 @@
-<!-- HEADER HERO -->
-
 <!-- ANIMATED INTRO (Waving Banner) -->
 <p align="center">
   <img
@@ -7,7 +5,6 @@
     alt="Waving banner"
   />
 </p>
-
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GideonThuku&color=DC5100&style=for-the-badge)
