@@ -5,10 +5,12 @@
 
 <!-- ANIMATED INTRO -->
 <p align="center">
-  <a href="https://github.com/GideonThuku">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=DC5100&center=true&vCenter=true&width=600&lines=🚀+**Aspiring+AI+Engineer**;💡+**Inclusive+Tech+Advocate**;🧠+**AI+%26+Data+Annotation+Specialist**;🌍+**Building+Solutions+for+Real-World+Impact**" alt="Typing SVG">
-  </a>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&pause=900&color=DC5100&center=true&vCenter=true&width=800&height=60&font=Montserrat&lines=Aspiring+AI+Engineer;Inclusive+Tech+Advocate;AI+%26+Data+Annotation+Specialist;Building+Solutions+for+Real-World+Impact"
+    alt="Typing intro"
+  />
 </p>
+
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=GideonThuku&color=DC5100&style=for-the-badge)
