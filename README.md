@@ -14,13 +14,9 @@
 
 ## 💡 About Me
 
-👋 Hi there! I’m an **aspiring AI Engineer** passionate about building **inclusive, data-driven solutions** that solve real-world problems.  
+👋 Hi there! I’m an **aspiring AI Engineer** passionate about building **inclusive, data-driven solutions** that solve real-world problems.  Currently, I’m sharpening my skills, exploring how **AI** and **Software Engineering** can bridge gaps in accessibility and opportunity. I believe technology should **empower everyone**, and I’m on a journey to make that happen — one project, one line of code, and one idea at a time.  
 
-🚀 Currently, I’m sharpening my skills, exploring how **AI** and **Software Engineering** can bridge gaps in accessibility and opportunity.  
 
-✨ I believe technology should **empower everyone**, and I’m on a journey to make that happen — one project, one line of code, and one idea at a time.  
-
-  
 🌐 Co-executive director of [AfricaAbility.org](https://www.africaability.org)
 
 ---
@@ -29,6 +25,13 @@
 **💡 Skills:** 🐍 Python | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | 🛡 Cybersecurity | 🗄 MySQL
 
 ---
+### 🛠️ Tech Stack & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🚀 Tech Stack
 <p align="center">
