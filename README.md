@@ -152,12 +152,10 @@ Provided by **Otermans Institute** & **Power Learn Project Africa**
   <img src="https://raw.githubusercontent.com/GideonThuku/GideonThuku/main/banner.png" alt="Africa Ability Trust Logo" width="250">
 </p>
 
-<br>
-
 <p align="center">
-  Harnessing the power of technology to create a future<br>
-  where persons with disabilities and communities<br>
-  across Africa can thrive, belong, and lead.<br>
+  Harnessing the power of technology to create a future where <br>
+  persons with disabilities and communities across Africa can thrive, belong, and lead.<br>
+  
   Proud Co-Executive Director at <a href="https://www.africaability.org">Africa Ability Trust</a>
 </p>
 
