@@ -1,6 +1,6 @@
 <!-- HEADER HERO -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250/DC5100/FFFFFF?text=Gideon+Thuku+|+Aspiring+AI+Engineer" alt="Hero Banner">
+  <img src="./banner.png" alt="Hero Banner">
 </p>
 
 <!-- ANIMATED INTRO -->
