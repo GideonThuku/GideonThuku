@@ -6,10 +6,11 @@
 <!-- ANIMATED INTRO -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Aspiring%20AI%20Engineer%20%7C%20Inclusive%20Tech%20Advocate&fontSize=32&fontAlignY=36&color=0:DC5100,100:000000&fontColor=ffffff"
-    alt="Waving banner"
+    src="https://svg-banners.vercel.app/api?type=glitch&text1=Aspiring%20AI%20Engineer&width=800&height=200"
+    alt="Glitch banner"
   />
 </p>
+
 
 
 
