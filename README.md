@@ -8,16 +8,6 @@
   />
 </p>
 
-<!-- SLIDESHOW TYPING LINE (cycles through phrases) -->
-<p align="center">
-  <a href="https://github.com/GideonThuku">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&pause=900&multiline=false&center=true&vCenter=true&width=900&height=40&font=Montserrat%20SemiBold&color=DC5100&lines=Aspiring+AI+Engineer;Inclusive+Tech+Advocate;AI+%26+Data+Annotation+Specialist;Building+Solutions+for+Real%E2%80%91World+Impact;Python+%E2%80%A2+HTML%2FCSS+%E2%80%A2+JavaScript;Accessibility+%26+AI+for+Africa"
-      alt="Animated roles"
-    />
-  </a>
-</p>
-
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GideonThuku&color=DC5100&style=for-the-badge)
