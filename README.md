@@ -7,6 +7,7 @@
     alt="Waving banner"
   />
 </p>
+
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GideonThuku&color=DC5100&style=for-the-badge)
@@ -148,8 +149,14 @@ Provided by **Otermans Institute** & **Power Learn Project Africa**
   <img src="./banner.png" alt="Hero Banner" width="200"  >
 </p>
 
+---
+
 <p align="center">
-  <b>Harnessing the power of technology to create a future where persons with disabilities and communities across Africa can thrive, belong, and lead.</b><br>
-  Co-Executive Director at <a href="https://www.africaability.org">Africa Ability Trust</a>
+  <b>
+    Harnessing the power of technology to create a future where
+    <br/>persons with disabilities and communities across Africa
+    can thrive, belong, and lead.
+  </b>
 </p>
+
 
