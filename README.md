@@ -6,7 +6,7 @@
 <!-- ANIMATED INTRO -->
 <p align="center">
   <a href="https://github.com/GideonThuku">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=DC5100&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Web+Development+Learner;Cybersecurity+Enthusiast" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=DC5100&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Inclusive+Tech+Advocate;AI+%26+Data+Annotation" alt="Typing SVG">
   </a>
 </p>
 
@@ -71,8 +71,8 @@ I’m building a strong base in **Python, HTML/CSS, and JavaScript** on my journ
 
 ## 📌 Featured Projects
 <p align="center">
-  <a href="[https://github.com/GideonThuku/project1](https://github.com/GideonThuku/Gideon-July-2025-Cohort-Hackathon-1-Portfolio-Challenge.git)"><img src="https://img.shields.io/badge/-Project%201-DC5100?style=for-the-badge" alt="Project 1"></a>
-  <a href="https://github.com/GideonThuku/project2"><img src="https://img.shields.io/badge/-Project%202-660066?style=for-the-badge" alt="Project 2"></a>
+  <a href="https://github.com/GideonThuku/Gideon-July-2025-Cohort-Hackathon-1-Portfolio-Challenge"><img src="https://img.shields.io/badge/-Portfolio%20Challenge-DC5100?style=for-the-badge" alt="Portfolio Challenge"></a>
+  <a href="https://github.com/GideonThuku/Africa-Ability-Trust-Website"><img src="https://img.shields.io/badge/-Africa%20Ability%20Trust%20Website-660066?style=for-the-badge" alt="Africa Ability Trust Website"></a>
 </p>
 
 ---
