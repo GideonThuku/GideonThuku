@@ -1,6 +1,6 @@
 <!-- HEADER HERO -->
 <p align="center">
-  <img src="./banner.png" alt="Hero Banner">
+  <img src="./banner.png" alt="Hero Banner" width="800  >
 </p>
 
 <!-- ANIMATED INTRO -->
