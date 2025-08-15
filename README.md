@@ -19,6 +19,8 @@
 
 🌐 Co-executive director of [AfricaAbility.org](https://www.africaability.org)
 
+![Profile Views](https://komarev.com/ghpvc/?username=GideonThuku&color=DC5100&style=for-the-badge)
+
 ---
 
 ## 🛠 Skills Cloud
