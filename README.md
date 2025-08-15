@@ -157,5 +157,7 @@ Provided by **Otermans Institute** & **Power Learn Project Africa**
     where persons with disabilities and communities<br>
     across Africa can thrive, belong, and lead.
   </b><br>
+
+  
  Co-Executive Director at <a href="https://www.africaability.org">Africa Ability Trust</a>
 </p>
