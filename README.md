@@ -1,13 +1,10 @@
 <!-- HEADER HERO -->
-<p align="center">
-  <img src="./banner.png" alt="Hero Banner" width="200"  >
-</p>
 
 <!-- ANIMATED INTRO -->
 <p align="center">
   <img
-    src="https://svg-banners.vercel.app/api?type=glitch&text1=Aspiring%20AI%20Engineer&width=800&height=200"
-    alt="Glitch banner"
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Aspiring%20AI%20Engineer%20%7C%20Inclusive%20Tech%20Advocate&fontSize=32&fontAlignY=36&color=0:DC5100,100:000000&fontColor=ffffff"
+    alt="Waving banner"
   />
 </p>
 
@@ -153,3 +150,9 @@ Provided by **Otermans Institute** & **Power Learn Project Africa**
     <img src="https://img.shields.io/badge/Email-gideon@africaability.org-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
+---
+<p align="center">
+  <img src="./banner.png" alt="Hero Banner" width="200"  >
+</p>
+
