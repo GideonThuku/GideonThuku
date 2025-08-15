@@ -7,10 +7,6 @@
     alt="Waving banner"
   />
 </p>
-
-
-
-
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=GideonThuku&color=DC5100&style=for-the-badge)
 
@@ -154,5 +150,10 @@ Provided by **Otermans Institute** & **Power Learn Project Africa**
 ---
 <p align="center">
   <img src="./banner.png" alt="Hero Banner" width="200"  >
+</p>
+
+<p align="center">
+  <b>Building inclusive, data-driven solutions for a better tomorrow.</b><br>
+  Co-Executive Director at <a href="https://www.africaability.org">Africa Ability Trust</a>
 </p>
 
