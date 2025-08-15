@@ -8,16 +8,12 @@
   />
 </p>
 ---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=GideonThuku&color=DC5100&style=for-the-badge)
 
 ## 💡 About Me
 
 👋 Hi there! I’m an **aspiring AI Engineer** passionate about building **inclusive, data-driven solutions** that solve real-world problems.  Currently, I’m sharpening my skills, exploring how **AI** and **Software Engineering** can bridge gaps in accessibility and opportunity. I believe technology should **empower everyone**, and I’m on a journey to make that happen — one project, one line of code, and one idea at a time.  
-
-
-🌐 Co-executive director of [AfricaAbility.org](https://www.africaability.org)
-
-
 
 ---
 
