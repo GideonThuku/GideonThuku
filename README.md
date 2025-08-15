@@ -149,7 +149,7 @@ Provided by **Otermans Institute** & **Power Learn Project Africa**
 </p>
 
 <p align="center">
-  <b>Building inclusive, data-driven solutions for a better tomorrow.</b><br>
+  <b>Harnessing the power of technology to create a future where persons with disabilities and communities across Africa can thrive, belong, and lead.</b><br>
   Co-Executive Director at <a href="https://www.africaability.org">Africa Ability Trust</a>
 </p>
 
