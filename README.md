@@ -55,6 +55,36 @@
 
 ---
 
+## 📚 Enrolled & Learning Modules
+
+### 🎓 Main Courses
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-22%25-3776AB?style=for-the-badge&labelColor=000" alt="Python 22%">
+  <img src="https://img.shields.io/badge/Database%20Design%20%26%20Programming-25%25-4479A1?style=for-the-badge&labelColor=000" alt="Database Design & Programming 25%">
+  <img src="https://img.shields.io/badge/Startup%20Building%20for%20Developers-25%25-FF7F50?style=for-the-badge&labelColor=000" alt="Startup Building for Developers 25%">
+  <img src="https://img.shields.io/badge/Software%20Engineering%20Essentials-100%25-2E8B57?style=for-the-badge&labelColor=000" alt="Software Engineering Essentials 100%">
+  <img src="https://img.shields.io/badge/Web%20Development%20V2-38%25-FF4500?style=for-the-badge&labelColor=000" alt="Web Development V2 38%">
+  <img src="https://img.shields.io/badge/AI%20Safari%20Camps-0%25-808080?style=for-the-badge&labelColor=000" alt="AI Safari Camps 0%">
+</p>
+
+---
+
+### 🤖 AI Literacy Certified Course  
+Provided by **Otermans Institute** & **Power Learn Project Africa**  
+<p align="center">
+  <img src="https://img.shields.io/badge/What%20Is%20AI%20and%20Why%20Should%20We%20Care%3F-In%20Progress-DC5100?style=for-the-badge&labelColor=000">
+  <img src="https://img.shields.io/badge/Being%20Human%20in%20an%20AI%20World-In%20Progress-DC5100?style=for-the-badge&labelColor=000">
+  <img src="https://img.shields.io/badge/AI%20and%20Me%3A%20A%20Citizen's%20Role-In%20Progress-DC5100?style=for-the-badge&labelColor=000">
+  <img src="https://img.shields.io/badge/Right%20and%20Wrong%20in%20the%20Age%20of%20AI-In%20Progress-DC5100?style=for-the-badge&labelColor=000">
+  <img src="https://img.shields.io/badge/Building%20Fair%20AI%3A%20Ethics%20by%20Design-In%20Progress-DC5100?style=for-the-badge&labelColor=000">
+  <img src="https://img.shields.io/badge/How%20Machines%20Learn-In%20Progress-DC5100?style=for-the-badge&labelColor=000">
+  <img src="https://img.shields.io/badge/AI%20in%20Action-In%20Progress-DC5100?style=for-the-badge&labelColor=000">
+  <img src="https://img.shields.io/badge/Let's%20Build%20with%20AI-In%20Progress-DC5100?style=for-the-badge&labelColor=000">
+  <img src="https://img.shields.io/badge/Our%20AI%20Future-In%20Progress-DC5100?style=for-the-badge&labelColor=000">
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <table align="center" width="100%">
   <tr>
