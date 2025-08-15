@@ -6,10 +6,11 @@
 <!-- ANIMATED INTRO -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?size=28&duration=2800&pause=900&color=DC5100&center=true&vCenter=true&width=800&height=60&font=Montserrat&lines=Aspiring+AI+Engineer;Inclusive+Tech+Advocate;AI+%26+Data+Annotation+Specialist;Building+Solutions+for+Real-World+Impact"
-    alt="Typing intro"
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Aspiring%20AI%20Engineer%20%7C%20Inclusive%20Tech%20Advocate&fontSize=32&fontAlignY=36&color=0:DC5100,100:000000&fontColor=ffffff"
+    alt="Waving banner"
   />
 </p>
+
 
 
 ---
