@@ -71,7 +71,7 @@ I’m building a strong base in **Python, HTML/CSS, and JavaScript** on my journ
 
 ## 📌 Featured Projects
 <p align="center">
-  <a href="https://github.com/GideonThuku/project1"><img src="https://img.shields.io/badge/-Project%201-DC5100?style=for-the-badge" alt="Project 1"></a>
+  <a href="[https://github.com/GideonThuku/project1](https://github.com/GideonThuku/Gideon-July-2025-Cohort-Hackathon-1-Portfolio-Challenge.git)"><img src="https://img.shields.io/badge/-Project%201-DC5100?style=for-the-badge" alt="Project 1"></a>
   <a href="https://github.com/GideonThuku/project2"><img src="https://img.shields.io/badge/-Project%202-660066?style=for-the-badge" alt="Project 2"></a>
 </p>
 
