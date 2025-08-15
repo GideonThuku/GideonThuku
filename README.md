@@ -6,7 +6,7 @@
 <!-- ANIMATED INTRO -->
 <p align="center">
   <a href="https://github.com/GideonThuku">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=DC5100&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Inclusive+Tech+Advocate;AI+%26+Data+Annotation" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=DC5100&center=true&vCenter=true&width=600&lines=🚀+**Aspiring+AI+Engineer**;💡+**Inclusive+Tech+Advocate**;🧠+**AI+%26+Data+Annotation+Specialist**;🌍+**Building+Solutions+for+Real-World+Impact**" alt="Typing SVG">
   </a>
 </p>
 
