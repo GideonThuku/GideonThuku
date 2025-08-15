@@ -152,12 +152,10 @@ Provided by **Otermans Institute** & **Power Learn Project Africa**
 ---
 
 <p align="center">
-  <b>Harnessing the power of technology to create a future where <br> persons with disabilities and communities across Africa 
-   <br> can thrive, belong, and lead.</b><br>
-
----
-
-  Co-Executive Director at <a href="https://www.africaability.org">Africa Ability Trust</a>
+  <b>
+    Harnessing the power of technology to create a future<br>
+    where persons with disabilities and communities<br>
+    across Africa can thrive, belong, and lead.
+  </b><br>
+ Co-Executive Director at <a href="https://www.africaability.org">Africa Ability Trust</a>
 </p>
-
-
