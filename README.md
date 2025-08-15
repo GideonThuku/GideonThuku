@@ -46,6 +46,7 @@
 ## 📚 Learning Progress
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-60%25-DC5100?style=for-the-badge" alt="HTML 60%">
+  <img src="https://img.shields.io/badge/MySQL-30%25-4479A1?style=for-the-badge&labelColor=000" alt="MySQL 30%">
   <img src="https://img.shields.io/badge/CSS-50%25-660066?style=for-the-badge" alt="CSS 50%">
   <img src="https://img.shields.io/badge/JavaScript-5%25-F7DF1E?style=for-the-badge&labelColor=000" alt="JavaScript 5%">
   <img src="https://img.shields.io/badge/Python-50%25-3776AB?style=for-the-badge&labelColor=000" alt="Python 50%">
