@@ -146,9 +146,13 @@ Provided by **Otermans Institute** & **Power Learn Project Africa**
 
 ---
 
+---
+
 <p align="center">
-  <img src="logo.png" alt="Africa Ability Trust Logo" width="250">
+  <img src="logo.png" alt="banner.png" width="250">
 </p>
+
+<br>
 
 <p align="center">
   Harnessing the power of technology to create a future<br>
