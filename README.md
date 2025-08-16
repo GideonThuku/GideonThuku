@@ -63,7 +63,7 @@
 ---
 
 ### 🤖 AI Literacy Certified Course  
-Provided by **Otermans Institute** & **Power Learn Project Africa**  
+Provided by **Otermans Institute**  
 <p align="center">
   <img src="https://img.shields.io/badge/What%20Is%20AI%20and%20Why%20Should%20We%20Care%3F-In%20Progress-DC5100?style=for-the-badge&labelColor=000">
   <img src="https://img.shields.io/badge/Being%20Human%20in%20an%20AI%20World-In%20Progress-DC5100?style=for-the-badge&labelColor=000">
