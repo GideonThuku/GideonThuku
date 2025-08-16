@@ -8,18 +8,18 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GideonThuku&color=DC5100&style=for-the-badge)
 
-## 💡 About Me
+## About Me
 
 👋 Hi there! I’m an **aspiring AI Engineer** passionate about building **inclusive, data-driven solutions** that solve real-world problems.  Currently, I’m sharpening my skills, exploring how **AI** and **Software Engineering** can bridge gaps in accessibility and opportunity. I believe technology should **empower everyone**, and I’m on a journey to make that happen — one project, one line of code, and one idea at a time.  
 
 ---
 
-## 🛠 Skills Cloud
+## Skills Cloud
 **💡 Skills:** 🐍 Python | 🌐 HTML | 🎨 CSS | ⚡ JavaScript | 🛡 Cybersecurity | 🗄 MySQL
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
@@ -36,7 +36,7 @@
 
 ---
 
-## 📚 Learning Progress
+## Learning Progress
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-60%25-DC5100?style=for-the-badge" alt="HTML 60%">
   <img src="https://img.shields.io/badge/MySQL-30%25-4479A1?style=for-the-badge&labelColor=000" alt="MySQL 30%">
@@ -48,9 +48,9 @@
 
 ---
 
-## 📚 Enrolled & Learning Modules
+##  Enrolled & Learning Modules
 
-### 🎓 Main Courses
+### Main Courses
 <p align="center">
   <img src="https://img.shields.io/badge/Python-22%25-3776AB?style=for-the-badge&labelColor=000" alt="Python 22%">
   <img src="https://img.shields.io/badge/Database%20Design%20%26%20Programming-25%25-4479A1?style=for-the-badge&labelColor=000" alt="Database Design & Programming 25%">
