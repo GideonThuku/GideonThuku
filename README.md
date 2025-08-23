@@ -53,12 +53,12 @@ Software Development at **Power Learn Project**
 
 ### Main Courses
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-22%25-3776AB?style=for-the-badge&labelColor=000" alt="Python 40%">
-  <img src="https://img.shields.io/badge/Database%20Design%20%26%20Programming-25%25-4479A1?style=for-the-badge&labelColor=000" alt="Database Design & Programming 30%">
-  <img src="https://img.shields.io/badge/Startup%20Building%20for%20Developers-25%25-FF7F50?style=for-the-badge&labelColor=000" alt="Startup Building for Developers 50%">
+  <img src="https://img.shields.io/badge/Python-40%25-3776AB?style=for-the-badge&labelColor=000" alt="Python 40%">
+  <img src="https://img.shields.io/badge/Database%20Design%20%26%20Programming-39%25-4479A1?style=for-the-badge&labelColor=000" alt="Database Design & Programming 30%">
+  <img src="https://img.shields.io/badge/Startup%20Building%20for%20Developers-50%25-FF7F50?style=for-the-badge&labelColor=000" alt="Startup Building for Developers 50%">
   <img src="https://img.shields.io/badge/Software%20Engineering%20Essentials-100%25-2E8B57?style=for-the-badge&labelColor=000" alt="Software Engineering Essentials 100%">
-  <img src="https://img.shields.io/badge/Web%20Development%20V2-38%25-FF4500?style=for-the-badge&labelColor=000" alt="Web Development V2 38%">
-  <img src="https://img.shields.io/badge/AI%20Safari%20Camps-19%25-808080?style=for-the-badge&labelColor=000" alt="AI Safari Camps 100%">
+  <img src="https://img.shields.io/badge/Web%20Development%20V2-50%25-FF4500?style=for-the-badge&labelColor=000" alt="Web Development V2 38%">
+  <img src="https://img.shields.io/badge/AI%20Safari%20Camps-100%25-808080?style=for-the-badge&labelColor=000" alt="AI Safari Camps 100%">
 </p>
 
 ---
