@@ -92,7 +92,10 @@ Provided by **Otermans Institute**
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GideonThuku&theme=default&hide_border=false" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=GideonThuku&theme=default&hide_border=false"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
