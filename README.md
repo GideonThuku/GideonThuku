@@ -91,12 +91,7 @@ Provided by **Otermans Institute**
   </tr>
 </table>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=GideonThuku&theme=default&hide_border=false"
-    alt="GitHub Streak"
-  />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=GideonThuku&theme=default&hide_border=false)
 
 ---
 
